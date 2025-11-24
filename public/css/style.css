@@ -295,7 +295,7 @@ body {
         font-size: 3.5rem;
     }
 
-    /* Header más compacto */
+    /* Header mas compacto */
     .logo {
         font-size: 1.5rem;
     }
@@ -308,7 +308,7 @@ body {
         font-size: 0.95rem;
     }
 
-    /* Layout: Sidebar arriba del contenido */
+    /* Layout: Sidebar arriba del contenido   */
     .content-wrapper {
         grid-template-columns: 1fr;
         gap: 1.5rem;
